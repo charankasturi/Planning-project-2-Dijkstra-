@@ -1,6 +1,6 @@
 # Planning-project-2-Dijkstra-
 
-#Libraries used:
+# Libraries used:
 1)numpy
 2)matplotlib
 3)cv2
