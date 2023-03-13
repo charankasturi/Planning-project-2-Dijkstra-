@@ -1,4 +1,8 @@
 # Planning-project-2-Dijkstra-
+Files:
+1)output terminal.png
+2)output_final.png
+3)output video.avi
 
 # Libraries used:
 1)numpy
